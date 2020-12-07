@@ -1,7 +1,7 @@
 ﻿using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
-
+/*
 public class PauseMenu : MonoBehaviour
 {
     public static bool GameIsPaused = false;
@@ -11,7 +11,7 @@ public class PauseMenu : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
-        if (Imput.GetKeyDown(KeyCode.Escape))
+        if (Input.GetKeyDown(KeyCode.Escape))
         {
             if (GameIsPaused)
             {
@@ -38,3 +38,4 @@ public class PauseMenu : MonoBehaviour
         GameIsPaused = true;
     }
 }
+*/
