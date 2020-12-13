@@ -22,7 +22,7 @@ public class PlayerCharacter : MonoBehaviour
     [SerializeField] private PlayerFoot foot;
 
     private const float DeadZone = 0.1f;
-    private const float MoveSpeed = 2.0f;
+    private const float MoveSpeed = 4.0f;
     private const float JumpSpeed = 5.0f;
 
     private bool facingRight_ = true;
