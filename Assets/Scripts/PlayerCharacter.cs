@@ -138,4 +138,6 @@ public class PlayerCharacter : MonoBehaviour
         spriteRenderer.flipX = !spriteRenderer.flipX;
         facingRight_ = !facingRight_;
     }
+
+
 }
