@@ -4,6 +4,15 @@ TTOD est un platformer 2D réalisé lors de mon premier module en games programm
 
 ## Game Design Document :
 
+### Concept :
+
+### Règles :
+
+#### Condition de Victoire :
+
+#### Condition de Défaite :
+
+### Mécaniques :
 
 
 
