@@ -1,4 +1,12 @@
-## Bienvenue sur le site de mon premier petit jeu : The Tower Of Doom !
+# Bienvenue sur le site de mon premier petit jeu : The Tower Of Doom !
+
+TTOD est un platformer 2D réalisé lors de mon premier module en games programming à la SAE Institute.
+
+## Game Design Document :
+
+
+
+
 
 You can use the [editor on GitHub](https://github.com/PaulOwO/The-Tower-Of-Doom/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
