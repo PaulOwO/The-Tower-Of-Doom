@@ -1,10 +1,12 @@
-# Bienvenue sur le site de mon premier petit jeu : The Tower Of Doom !
+# Bienvenue sur le site de mon premier petit jeu : _**The Tower Of Doom**_ !
 
 TTOD est un platformer 2D réalisé lors de mon premier module en games programming à la SAE Institute.
 
 ## Game Design Document :
 
 ### Concept :
+
+Un jeune renard nommé **Renardo** accepte le défi de ses amis renards de grimper _The Tower Of Doom_. The Tower Of Doom est une vieille tour abandonnée non loin du petit village où habitent les renards. C'est donc quand Renardo ouvre la première porte avec l'objectif d'arriver en haut de la tour que le jeu commence.
 
 ### Règles :
 
