@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Bienvenue sur le site de mon premier petit jeu : The Tower Of Doom !
 
 You can use the [editor on GitHub](https://github.com/PaulOwO/The-Tower-Of-Doom/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
