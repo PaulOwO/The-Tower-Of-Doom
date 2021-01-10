@@ -7,9 +7,6 @@ using InControl;
 
 public class PlayerCharacter : MonoBehaviour
 {
-    //incontrol
-    TwoAxisInputControl filteredDirection;
-
     public enum State
     {
         None,
@@ -35,13 +32,6 @@ public class PlayerCharacter : MonoBehaviour
     private bool facingRight_ = true;
     private bool jumpButtonDown_ = false;
 
-    //incontrol
-    void Awake()
-    {
-        filteredDirection = new TwoAxisInputControl();
-        filteredDirection.StateThreshold = 0.5f;
-    }
-
     void Start()
     {
         ChangeState(State.Jump);
@@ -50,10 +40,10 @@ public class PlayerCharacter : MonoBehaviour
     private void Update()
     {
         // Use last device which provided input.
-        var inputDevice = InputManager.ActiveDevice;
-        filteredDirection.Filter(inputDevice.Direction, Time.deltaTime);
+        InputDevice device = InputManager.ActiveDevice;
+        InputControl control = device.GetControl(InputControlType.Action1);
 
-        if (Input.GetKeyDown(KeyCode.Space))
+        if ((InputManager.ActiveDevice.Action1.WasPressed) || (Input.GetKeyDown(KeyCode.Space)))
         {
             jumpButtonDown_ = true;
         }
@@ -62,16 +52,17 @@ public class PlayerCharacter : MonoBehaviour
     void FixedUpdate()
     {
         float moveDir = 0.0f;
-        if /*(Input.GetKey(KeyCode.LeftArrow) ||*/ (filteredDirection.Left.WasPressed)
+        if ((Input.GetKey(KeyCode.LeftArrow)) || (InputManager.ActiveDevice.DPadLeft) || (InputManager.ActiveDevice.LeftStickLeft))
         {
+            Debug.Log("left");  
             moveDir -= 1.0f;
         }
-        if (Input.GetKey(KeyCode.RightArrow))
+        if ((Input.GetKey(KeyCode.RightArrow)) || (InputManager.ActiveDevice.DPadRight) || (InputManager.ActiveDevice.LeftStickRight))
         {
             moveDir += 1.0f;
         }
 
-        if (foot.FootContact > 0 && jumpButtonDown_)
+        if (foot.FootContact > 0 && jumpButtonDown_) 
         {
             Jump();
         }
