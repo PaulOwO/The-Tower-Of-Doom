@@ -1,12 +1,12 @@
 # Bienvenue sur le site de mon premier petit jeu : _**The Tower Of Doom**_ !
 
-**TTOD** est un platformer 2D réalisé lors de mon premier module en games programming à la SAE Institute.
+**TTOD** est le premier niveau d'un platformer 2D réalisé lors de mon premier module en games programming à la SAE Institute.
 
 ## Game Design Document :
 
 ### Concept :
 
-Un jeune renard nommé **Renardo** accepte le défi de ses amis renards de grimper _The Tower Of Doom_. **TTOD** est une vieille tour abandonnée au passé sombre non loin du petit village où habitent les renards. C'est donc quand Renardo ouvre la première porte avec l'objectif d'arriver en haut de la tour que le jeu commence.
+Un jeune renard nommé **Renardo** accepte le défi de ses amis renards de grimper _The Tower Of Doom_. **TTOD** est une vieille tour abandonnée au passé sombre non loin du petit village où habitent les renards. C'est donc quand Renardo ouvre la première porte avec l'objectif d'arriver en haut de la tour que le jeu commence. ![Image](C:\Users\paulb\Projet_GPR400.1\The-Tower-Of-Doom\Assets\Sunnyland\artwork\Sprites\player\hurt)
 
 ### Règles :
 
@@ -35,6 +35,9 @@ You can use the [editor on GitHub](https://github.com/PaulOwO/The-Tower-Of-Doom/
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
 ### Markdown
+
+## Le Développement
+
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
