@@ -28,6 +28,22 @@ Le joueur contrôle le renard qui a quelques capacitées pour progrésser dans l
 Les platformes à pivot sont des platformes qui, dés que le joueur va entrer en contact avec, vont pivoter sur leur point centrale en fonction de l'endroit où le joueur a appliqué de la force et ce jusqu'à un angle de 45°. Il pourra ensuite se servir de ces rampes pour atteindre des endroits précédement inaténiables.
 
 
+## Le Développement
+
+Etant mon premier "gros" jeu réalisé seul, j'ai apris beaucoup de choses du début à la fin de cette expérience.
+
+Je notte particuliérement que, du au confinement, la comunication avec les professeurs et mes camarades de classes étant moins direct j'ai donc pour la première fois beaucoup plus travailler en autonomies avec l'aide d'internet. Je me suis améliorer dans mes recherches internet pour trouver plusieurs information sur "comment faire" mais aussi sur comment me décoincer de certain probléme.
+
+Par la même occasion j'ai découvert le plaisir singulier de passé une journée entier sur un probléme et le résoudre en une seconde le lendemain. 
+
+Malgrés internet j'ai quand même eu besoin de professeur pour certain problème et je dois m'améliorer dans la description de mes problémes pour qu'ils puissent m'aider de la meilleur façcon possible.
+
+Je dois aussi m'améliorer à trouvé des information et de l'aide quand j'utilise quelque chose d'on je n'arrive pas à trouvé des renseignement comme cette fois c'y avec InControl qui est un plugin qui aide à gérer les contrôle manettes.
+
+## Conclusion
+
+Je suis satisafait de se premier jeux qui ma donné plein d'idée et m'a fais progresser dans mon codage, l'utilisation des moteurs de jeu et m'a permis de me rendre compte que je peux travailler en indépendance.
+
 
 
 You can use the [editor on GitHub](https://github.com/PaulOwO/The-Tower-Of-Doom/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
@@ -35,8 +51,6 @@ You can use the [editor on GitHub](https://github.com/PaulOwO/The-Tower-Of-Doom/
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
 ### Markdown
-
-## Le Développement
 
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
