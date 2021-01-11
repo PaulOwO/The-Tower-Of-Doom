@@ -30,19 +30,19 @@ Les platformes à pivot sont des platformes qui, dés que le joueur va entrer en
 
 ## Le Développement
 
-Etant mon premier "gros" jeu réalisé seul, j'ai apris beaucoup de choses du début à la fin de cette expérience.
+Puisque c'est mon premier "gros" jeu réalisé seul, j'ai appris beaucoup de choses du début à la fin de l'expérience.
 
-Je notte particuliérement que, du au confinement, la comunication avec les professeurs et mes camarades de classes étant moins direct j'ai donc pour la première fois beaucoup plus travailler en autonomies avec l'aide d'internet. Je me suis améliorer dans mes recherches internet pour trouver plusieurs information sur "comment faire" mais aussi sur comment me décoincer de certain probléme.
+Je note particulièrement que, du au confinement, la communication avec les professeurs et mes camarades de classe étant moins directe j'ai donc pour la première fois beaucoup plus travaillé en autonomie avec l'aide d'internet. Je me suis amélioré dans mes recherches internet pour trouver plusieurs informations sur "comment faire" mais aussi sur comment me sortir de certains problèmes.
 
-Par la même occasion j'ai découvert le plaisir singulier de passé une journée entier sur un probléme et le résoudre en une seconde le lendemain. 
+Par la même occasion j'ai découvert le plaisir singulier de passé une journée entière sur un problème et le résoudre en une seconde le lendemain. 
 
-Malgrés internet j'ai quand même eu besoin de professeur pour certain problème et je dois m'améliorer dans la description de mes problémes pour qu'ils puissent m'aider de la meilleur façcon possible.
+Malgrés internet j'ai quand même eu besoin de professeurs pour certains problèmes et je dois d'ailleurs m'améliorer sur la description de ceux ci pour qu'ils puissent m'aider de la meilleure façon possible.
 
-Je dois aussi m'améliorer à trouvé des information et de l'aide quand j'utilise quelque chose d'on je n'arrive pas à trouvé des renseignement comme cette fois c'y avec InControl qui est un plugin qui aide à gérer les contrôle manettes.
+Je dois aussi m'améliorer dans ma manière de chercher des informations et de l'aide quand j'utilise quelque chose dont les renseignements sont durs à trouver comme cette fois ci avec InControl qui est un plugin qui aide à gérer les contrôles manettes.
 
 ## Conclusion
 
-Je suis satisafait de se premier jeux qui ma donné plein d'idée et m'a fais progresser dans mon codage, l'utilisation des moteurs de jeu et m'a permis de me rendre compte que je peux travailler en indépendance.
+Je suis satisfait de ce premier jeu qui m'a donné pleins d'idées et m'a fait progresser dans mon codage, dans l'utilisation des moteurs de jeu et m'a permis de me rendre compte que je peux travailler de manière indépendante.
 
 
 
