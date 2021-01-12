@@ -10,22 +10,22 @@ public class AnimationAudio : MonoBehaviour
     [SerializeField] AudioSource audioSource3;
     [SerializeField] AudioSource audioSource4;
 
-    public void PlayWalkSound1()
+    private void PlayWalkSound1()
     {
           audioSource.Play();
     }
 
-    public void PlayWalkSound2()
+    private void PlayWalkSound2()
     {
         audioSource1.Play();
     }
 
-    public void PlayJumpSound()
+    private void PlayJumpSound()
     {
         audioSource3.Play();
     }
 
-    public void PlayDieSound()
+    private void PlayDieSound()
     {
         audioSource4.Play();
     }

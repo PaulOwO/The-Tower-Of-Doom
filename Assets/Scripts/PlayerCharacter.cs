@@ -54,7 +54,6 @@ public class PlayerCharacter : MonoBehaviour
         float moveDir = 0.0f;
         if ((Input.GetKey(KeyCode.LeftArrow)) || (InputManager.ActiveDevice.DPadLeft) || (InputManager.ActiveDevice.LeftStickLeft))
         {
-            Debug.Log("left");  
             moveDir -= 1.0f;
         }
         if ((Input.GetKey(KeyCode.RightArrow)) || (InputManager.ActiveDevice.DPadRight) || (InputManager.ActiveDevice.LeftStickRight))
@@ -158,7 +157,7 @@ public class PlayerCharacter : MonoBehaviour
         currentState_ = state;
     }
 
-    IEnumerator DeathDelay()
+    private IEnumerator DeathDelay()
     {
         yield return new WaitForSeconds(0.2f);
         transform.position = respawnPoint.transform.position;

@@ -6,7 +6,7 @@ using InControl;
 
 public class PauseMenu : MonoBehaviour
 {
-    private bool GameIsPaused = false; //*
+    private bool GameIsPaused = false; 
 
     [SerializeField] GameObject PauseMenuUI;
 
@@ -26,7 +26,7 @@ public class PauseMenu : MonoBehaviour
         }
     }
 
-    public void Resume()
+    private void Resume()
     {
         PauseMenuUI.SetActive(false);
         Time.timeScale = 1f;
@@ -40,14 +40,14 @@ public class PauseMenu : MonoBehaviour
         GameIsPaused = true;
     }
 
-    public void LoadMenu()
+    private void LoadMenu()
     {
         Time.timeScale = 1f;
         SceneManager.LoadScene("Menu");
         Debug.Log("Loading Menu");
     }
 
-    public void QuitGame()
+    private void QuitGame()
     {
         Application.Quit();
         Debug.Log("Quitting game");

@@ -8,12 +8,12 @@ public class UIButton : MonoBehaviour
     [SerializeField] AudioClip hoverFx;
     [SerializeField] AudioClip clickFx;
 
-    public void HoverSound()
+    private void HoverSound()
     {
         myFx.PlayOneShot(hoverFx);
     }
 
-    public void ClickSound()
+    private void ClickSound()
     {
         myFx.PlayOneShot(clickFx);
     }
