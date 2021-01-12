@@ -8,7 +8,7 @@
 
 ### Concept :
 
-Un jeune renard nommé **Renardo** accepte le défi de ses amis renards de grimper _The Tower Of Doom_. **TTOD** est une vieille tour abandonnée au passé sombre non loin du petit village où habitent les renards. C'est donc quand Renardo ouvre la première porte avec l'objectif d'arriver en haut de la tour que le jeu commence. ![Image](C:\Users\paulb\Projet_GPR400.1\The-Tower-Of-Doom\Assets\Sunnyland\artwork\Sprites\player\hurt)
+Un jeune renard nommé **Renardo** accepte le défi de ses amis renards de grimper _The Tower Of Doom_. **TTOD** est une vieille tour abandonnée au passé sombre non loin du petit village où habitent les renards. C'est donc quand Renardo ouvre la première porte avec l'objectif d'arriver en haut de la tour que le jeu commence.
 
 ### Règles :
 
